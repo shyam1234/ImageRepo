@@ -7,3 +7,4 @@ use this format
 ![Karthik image horizontal](https://github.com/shyam1234/ImageRepo/blob/main/ChatGPT%20Image%20Oct%206,%202025,%2008_20_40%20AM.png?raw=true)
 ![Diwali](https://github.com/shyam1234/ImageRepo/blob/main/diwali_1.png)
 ![Diwali](https://github.com/shyam1234/ImageRepo/blob/main/diwali_2.png)
+![Diwali](https://github.com/shyam1234/ImageRepo/blob/main/diwali_3.png)
